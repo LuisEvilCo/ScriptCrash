@@ -1,0 +1,1 @@
+Tiny script to crash a browser (Except Edge).
